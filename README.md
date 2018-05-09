@@ -1,0 +1,2 @@
+# onlinearticleclassification-
+Web Scraping App for detik, antara and okezone also text classification by Naive Bayes. Put article URL inside the text input, and it'll scrape the website and take the content. After that, this apps used a model to classify the article to one of the following categories: Ekonomi, Entertaiment, Olahraga,Otomotif and Teknologi. This apps is developed for demo purposes of Data Science Series: Text Mining for Beginners Workshop by Algoritma(algorit.ma). Check : https://niffadf.shinyapps.io/oaclass/
